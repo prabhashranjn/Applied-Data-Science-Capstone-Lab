@@ -1,1 +1,4 @@
-# Applied-Data-Science-Capstone-Lab
+# GITHub
+
+## editing the file
+Hello, this is sample file.
